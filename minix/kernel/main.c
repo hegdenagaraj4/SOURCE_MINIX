@@ -329,7 +329,7 @@ void kmain(kinfo_t *local_cbi)
 static void announce(void)
 {
   /* Display the MINIX startup banner. */
-  printf("\nMINIX %s. "
+  printf("\nMINIX %s.\n\n!!Name:NAGARAJ HEGDE\nCWID:A20340611!!\n\n "
 #ifdef _VCS_REVISION
 	"(" _VCS_REVISION ")\n"
 #endif
